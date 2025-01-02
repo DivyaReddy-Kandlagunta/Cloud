@@ -1,2 +1,3 @@
 This is a sample text document.
+Future changes
 adding some changes to this document.
